@@ -179,7 +179,7 @@ export class CalculatorCaloriesService {
     }
 
     getMoreItems() {
-        this.startIndex += 10;
+        this.startIndex += 5;
     }
 
 }
